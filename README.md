@@ -6,7 +6,8 @@
 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-blue?logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-orange?logo=C%2B%2B)
-![Python](https://img.shields.io/badge/python-yellow?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdf76)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?logo=typescript)
 ![Embedded Systems](https://img.shields.io/badge/Systems-purple?label=Embedded)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%23e84441)
 ![PCB Design](https://img.shields.io/badge/Design-%23009130?label=PCB)
